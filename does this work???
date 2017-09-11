@@ -1,0 +1,8 @@
+print("Does this program work???")
+ans = input("Well, what do you think? (yes or no)")
+while ans != "yes" or ans != "no":
+  ans = input("Try again...")
+if ans == "yes":
+  print("Sure does!!!")
+else:
+  print("Nope...")
