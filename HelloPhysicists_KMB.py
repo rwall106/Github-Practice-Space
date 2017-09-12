@@ -8,3 +8,6 @@ if x == 1:
     print("x is 1.")
     
 print("See you Monday.")
+
+#i like me some comments yayaya. This is Fuming. Hi!!
+#more comments from Fuming hihihi :)
