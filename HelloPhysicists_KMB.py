@@ -15,3 +15,6 @@ else:
     print("x is not 1.")
     
 print("See you Monday.")
+
+#i like me some comments yayaya. This is Fuming. Hi!!
+#more comments from Fuming hihihi :)
